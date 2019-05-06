@@ -24,6 +24,11 @@
 
 - (void)fun1 {
     NSLog(@"fun1");
+}
+
+- (void)fun1 {
+    NSLog(@"fun1_branch1");
+}
 /*
 #pragma mark - Navigation
 
