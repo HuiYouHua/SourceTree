@@ -13,6 +13,7 @@
 		35E1BD502280119500020FFF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 35E1BD4F2280119500020FFF /* Assets.xcassets */; };
 		35E1BD532280119500020FFF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 35E1BD512280119500020FFF /* LaunchScreen.storyboard */; };
 		35E1BD562280119500020FFF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 35E1BD552280119500020FFF /* main.m */; };
+		35E1BD5E2280124100020FFF /* TomViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 35E1BD5D2280124100020FFF /* TomViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		35E1BD522280119500020FFF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		35E1BD542280119500020FFF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		35E1BD552280119500020FFF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		35E1BD5C2280124100020FFF /* TomViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TomViewController.h; sourceTree = "<group>"; };
+		35E1BD5D2280124100020FFF /* TomViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TomViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				35E1BD472280119500020FFF /* AppDelegate.m */,
 				35E1BD492280119500020FFF /* ViewController.h */,
 				35E1BD4A2280119500020FFF /* ViewController.m */,
+				35E1BD5C2280124100020FFF /* TomViewController.h */,
+				35E1BD5D2280124100020FFF /* TomViewController.m */,
 				35E1BD4C2280119500020FFF /* Main.storyboard */,
 				35E1BD4F2280119500020FFF /* Assets.xcassets */,
 				35E1BD512280119500020FFF /* LaunchScreen.storyboard */,
@@ -142,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				35E1BD4B2280119500020FFF /* ViewController.m in Sources */,
+				35E1BD5E2280124100020FFF /* TomViewController.m in Sources */,
 				35E1BD562280119500020FFF /* main.m in Sources */,
 				35E1BD482280119500020FFF /* AppDelegate.m in Sources */,
 			);
