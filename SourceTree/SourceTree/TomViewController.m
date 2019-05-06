@@ -22,6 +22,8 @@
     NSLog(@"Tom项目迭代1");
 }
 
+- (void)fun1 {
+    NSLog(@"fun1");
 /*
 #pragma mark - Navigation
 
